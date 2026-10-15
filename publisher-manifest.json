@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ce89e35b896d7ae01e0ad2c7",
+  "owner": "tpgkwnxj3",
+  "repo": "page-157ae6da631ff25a3ed45bb4",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "157ae6da631ff25a3ed45bb4",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e7d55b46b8f9a64e8864084163e2544b409752df856a9cc962eada69966a9e16",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供稳定高速GPT代理加速服务，支持多种套餐流量解锁，官网客户端下载即刻体验无障碍AI对话。",
+          "AI_DESCRIPTION": "GPT代充提供稳定高速GPT代理加速服务，支持多种套餐流量解锁，官网客户端下载即刻体验无障碍AI对话。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #f8f4ed;\n            --text: #2c2c2c;\n            --accent: #2d5a3d;\n            --green-light: #3a7a4f;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.7;\n            max-width: 1280px;\n            margin: 0 auto;\n            padding: 0 16px;\n        }\n        header {\n            background: linear-gradient(135deg, var(--accent), #1e4a35);\n            color: white;\n            padding: 20px 0;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            letter-spacing: 2px;\n        }\n        nav a {\n            color: white;\n            text-decoration: none;\n            margin-left: 24px;\n            font-size: 1rem;\n        }\n        main {\n            padding: 40px 0;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--accent);\n            text-align: center;\n            margin-bottom: 12px;\n        }\n        .intro {\n            max-width: 780px;\n            margin: 0 auto 60px;\n            text-align: center;\n            font-size: 1.15rem;\n            color: #444;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 24px;\n            max-width: 1200px;\n            margin: 0 auto 80px;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 16px;\n            overflow: hidden;\n            box-shadow: 0 8px 25px rgba(0,0,0,0.08);\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-8px);\n        }\n        .plan-card.featured {\n            border: 3px solid var(--accent);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 24px;\n            background: var(--accent);\n            color: white;\n            padding: 4px 16px;\n            border-radius: 20px;\n            font-size: 0.85rem;\n            font-weight: 600;\n        }\n        .plan-header {\n            padding: 24px 20px 16px;\n            background: linear-gradient(to right, var(--accent), #3a7a4f);\n            color: white;\n        }\n        .plan-name {\n            font-size: 1.4rem;\n            font-weight: 600;\n        }\n        .price {\n            font-size: 2.2rem;\n            font-weight: 700;\n            margin: 8px 0;\n        }\n        .annual {\n            font-size: 0.95rem;\n            opacity: 0.9;\n        }\n        .features {\n            padding: 0 20px 24px;\n            list-style: none;\n        }\n        .features li {\n            padding: 10px 0;\n            font-size: 1.02rem;\n            position: relative;\n            padding-left: 28px;\n        }\n        .features li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--accent);\n        }\n        .btn {\n            display: block;\n            width: 100%;\n            text-align: center;\n            padding: 14px;\n            background: var(--accent);\n            color: white;\n            text-decoration: none;\n            font-weight: 600;\n            margin: 0 20px 24px;\n            border-radius: 8px;\n        }\n        .config-section {\n            background: white;\n            padding: 60px 40px;\n            border-radius: 16px;\n            box-shadow: 0 8px 25px rgba(0,0,0,0.06);\n            max-width: 900px;\n            margin: 0 auto 80px;\n        }\n        .config-section h2 {\n            font-size: 2rem;\n            margin-bottom: 32px;\n            color: var(--accent);\n            text-align: center;\n        }\n        .steps {\n            display: flex;\n            justify-content: space-between;\n            flex-wrap: wrap;\n            gap: 20px;\n        }\n        .step {\n            flex: 1;\n            min-width: 240px;\n            background: var(--bg);\n            padding: 28px 24px;\n            border-radius: 12px;\n            text-align: center;\n        }\n        .step-num {\n            width: 48px;\n            height: 48px;\n            background: var(--accent);\n            color: white;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: 700;\n            margin: 0 auto 16px;\n            font-size: 1.4rem;\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto 100px;\n        }\n        details {\n            background: white;\n            margin: 12px 0;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 20px 24px;\n            font-size: 1.15rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .answer {\n            padding: 0 24px 28px;\n            color: #555;\n            font-size: 1.05rem;\n        }\n        footer {\n            background: #111;\n            color: #ccc;\n            padding: 60px 20px 30px;\n            border-radius: 12px;\n            margin-bottom: 40px;\n        }\n        .footer-content {\n            max-width: 1200px;\n            margin: 0 auto;\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));\n            gap: 40px;\n        }\n        .footer-col h4 {\n            color: white;\n            margin-bottom: 16px;\n            font-size: 1.1rem;\n        }\n        .footer-col a {\n            color: #aaa;\n            text-decoration: none;\n            display: block;\n            margin: 8px 0;\n        }\n        .footer-col a:hover {\n            color: white;\n        }\n        @media (max-width: 640px) {\n            .plans { grid-template-columns: 1fr; }\n            h1 { font-size: 2.2rem; }\n        }\n    </style>\n\n\n    <header>\n        <div class=\"nav\">\n            <div class=\"logo\">GPT代充</div>\n            <nav>\n                <a href=\"#\">首页</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#config\">配置流程</a>\n                <a href=\"#faq\">常见问题</a>\n                <a href=\"#download\">客户端下载</a>\n            </nav>\n        </div>\n    </header>\n\n    <main>\n        <h1>GPT代充</h1>\n        <p class=\"intro\">GPT代充是专为用户打造的高速GPT代理加速平台，提供稳定流量支持，帮助您畅享无障碍的AI对话与流媒体体验。无论个人使用还是企业团队，都能找到专属方案。</p>\n\n        <div class=\"plans\">\n            <div class=\"plan-card\">\n                <div class=\"plan-header\">\n                    <div class=\"plan-name\">基础版</div>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                </div>\n                <ul class=\"features\">\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n                <a href=\"#\" class=\"btn\">立即订阅</a>\n            </div>\n\n            <div class=\"plan-card featured\">\n                <div class=\"plan-header\">\n                    <div class=\"plan-name\">旗舰版</div>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                </div>\n                <ul class=\"features\">\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n                <a href=\"#\" class=\"btn\">立即订阅</a>\n            </div>\n\n            <div class=\"plan-card\">\n                <div class=\"plan-header\">\n                    <div class=\"plan-name\">团队版</div>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                </div>\n                <ul class=\"features\">\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n                <a href=\"#\" class=\"btn\">立即订阅</a>\n            </div>\n        </div>\n\n        <div class=\"config-section\">\n            <h2>配置流程</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <div class=\"step-num\">1</div>\n                    <p>访问官网选择套餐订阅付款</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">2</div>\n                    <p>登录后下载官方客户端</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">3</div>\n                    <p>导入订阅链接连接节点</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">4</div>\n                    <p>完成即刻享受加速服务</p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"faq\">\n            <details>\n                <summary>GPT代充是什么？</summary>\n                <div class=\"answer\">GPT代充是专业的GPT代理加速平台，提供高速稳定流量，支持流媒体解锁与AI对话优化，适用于个人与企业用户。</div>\n            </details>\n            <details>\n                <summary>如何订阅与付款？</summary>\n                <div class=\"answer\">登录官网选择套餐后，支持微信/支付宝/银行卡在线支付，订阅后立即生效。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"answer\">基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。</div>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <div class=\"answer\">旗舰版及以上套餐支持全节点原生解锁Netflix、YouTube等主流平台。</div>\n            </details>\n            <details>\n                <summary>有企业定制服务吗？</summary>\n                <div class=\"answer\">团队版提供VIP高带宽节点、企业定制路由及专属客户经理服务。</div>\n            </details>\n            <details>\n                <summary>客户端如何下载？</summary>\n                <div class=\"answer\">登录账号后在官网下载官方客户端，支持Windows/macOS/iOS/Android多平台。</div>\n            </details>\n            <details>\n                <summary>支持年度付款吗？</summary>\n                <div class=\"answer\">支持按年支付，基础版仅需¥150/年，旗舰版仅需¥350/年，团队版仅需¥850/年。</div>\n            </details>\n            <details>\n                <summary>技术支持如何？</summary>\n                <div class=\"answer\">旗舰版以上提供7x24小时优先工单响应，团队版有专属客户经理。</div>\n            </details>\n        </div>\n\n        <div>\n            <a href=\"#\" class=\"btn\">立即体验GPT加速</a>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n    <footer>\n        <div class=\"footer-content\">\n            <div class=\"footer-col\">\n                <h4>导航</h4>\n                <a href=\"#\">官网首页</a>\n                <a href=\"#plans\">套餐方案</a>\n                <a href=\"#config\">使用指南</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n            <div class=\"footer-col\">\n                <h4>资源</h4>\n                <a href=\"#\">客户端下载</a>\n                <a href=\"#\">订阅指南</a>\n                <a href=\"#\">节点列表</a>\n            </div>\n            <div class=\"footer-col\">\n                <h4>关于我们</h4>\n                <a href=\"#\">关于GPT代充</a>\n                <a href=\"#\">联系我们</a>\n            </div>\n            <div class=\"footer-col\">\n                <h4>友情链接</h4>\n                <a href=\"#\">机场订阅</a>\n                <a href=\"#\">VPN加速</a>\n                <a href=\"#\">GPT工具</a>\n            </div>\n        </div>\n        <div>\n            © 2025 GPT代充 官网 | sitemap | 广告\n        </div>\n    </footer>\n\n",
+          "hash": "41af4273221d73a4201c61f8a566e1875e075bf88a8b8f96bf2d616ff78695e5",
+          "seo": {
+            "title": "GPT代充 | 高速GPT加速器 客户端下载 官网",
+            "keywords": "GPT代充, GPT加速器, 客户端下载, VPN代理, 机场订阅, 流量加速",
+            "description": "GPT代充提供稳定高速GPT代理加速服务，支持多种套餐流量解锁，官网客户端下载即刻体验无障碍AI对话。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hj8894.cn",
+    "host": "p-10ecea6b47.hj8894.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "743e86474d9d84eaf5b76183c98aaa924b8d2ac067c3cd6f93aa5ea736b100ac",
+    "sitemap.xml": "387f4c889854ae3dcdc27e1a1ec74afd027f70e4e17e02432252efd84bb3c952",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5b6fe5b8781fdc4b48d030f3852c9e94029f93ee9bd224113b07809b25b06cdd",
+    "robots.txt": "75f5c4936e93a1db39bb222e7d2618b872d93b07feb7bbcc6cb8007412118a21",
+    "69663857e8bf74c3d8a5b0ee87216c4d.txt": "c20bc73d61d9793f0d80ea307d381376df56e6a3769dd1510f79c3aab4f630cd"
+  },
+  "revision": "0e327d7cb6df9277c95973e28a2b0aa3802bc3f64fb2163d8406044baad0974d"
+}
